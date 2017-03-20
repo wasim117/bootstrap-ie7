@@ -1,4 +1,4 @@
-#Bootstrap 3 for IE7 (Beta)
+#Bootstrap 3 for IE8 (Beta)
 
 Bootstrap 3 drops support for Internet Explorer 7, but you can add it back by simply adding this conditional CSS.
 
